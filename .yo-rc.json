@@ -28,7 +28,8 @@
       "en"
     ],
     "clientFramework": "angularX",
-    "jhiPrefix": "jhi"
+    "jhiPrefix": "jhi",
+    "herokuAppName": "la-dalle"
   },
   "git-provider": "GitHub",
   "git-company": "jg-try",
